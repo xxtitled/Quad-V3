@@ -1,6 +1,6 @@
 
-final color kCOLOR_1  = color(50, 150, 220);
-final color kCOLOR_2  = color(255,  0,   0);
+final color kCOLOR_1  = color(255, 255, 255);
+final color kCOLOR_2  = color(0, 100, 240);
 final boolean kIS_ANIMATE_KEY = false;
 final int   kFREQ     = 60;
 
