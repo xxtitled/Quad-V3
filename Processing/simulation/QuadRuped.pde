@@ -1,8 +1,8 @@
-final color kCOLOR_BONE  = color(40, 200, 110);
+final color kCOLOR_BONE  = color(45, 45, 45);
 final color kCOLOR_JOINT = color(255, 255, 255);
-final color kCOLOR_JOINT2 = color(255, 255, 0);
-final color kCOLOR_BODY  = color(50, 150, 220);
-final color kCOLOR_HEAD  = color(255, 0, 0);
+final color kCOLOR_JOINT2 = color(220, 50, 50);
+final color kCOLOR_BODY  = color(50, 100, 200);
+final color kCOLOR_HEAD  = color(255, 255, 255);
 final float kLEG_WIDTH   = 5.0f;
 
 
