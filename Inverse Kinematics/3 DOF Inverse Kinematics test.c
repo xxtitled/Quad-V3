@@ -2,7 +2,7 @@
 #include <math.h>    // 수학 함수(sin, cos, atan, acos, isnan 등) 사용을 위한 헤더
 
 // 액추에이터 감속비 (Reduction ratio)
-// 계산된 라디안 값을 실제 모터 회전량으로 변환할 때 곱해 줍니다.
+// 계산된 라디안 값을 실제 모터 회전량으로 변환할 때 곱한다
 const int rr = 9;
 
 // 다리 마디 길이 및 힙 오프셋 (단위: mm)
@@ -163,3 +163,4 @@ int main() {
 
     return 0;
 }
+
