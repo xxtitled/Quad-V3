@@ -6,20 +6,6 @@ final color kCOLOR_HEAD  = color(255, 255, 255);
 final float kLEG_WIDTH   = 5.0f;
 
 
-/*
-    Z      TOP VIEW
-               | -Y
-               |
-          ---------
-          | 2     3 |               H
--X -------|    +    |-------- +X    E
-          | 1     0 |               A
-          ---------                 D
-               |
-               |
-               | +Y
-*/
-
 class Leg {
     float _coxaLength;
     float _femurLength;
@@ -342,3 +328,4 @@ class QuadRuped {
         draw();
     }
 }
+
